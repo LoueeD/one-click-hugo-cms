@@ -1,5 +1,7 @@
 ---
-title: Audacia
+title: >-
+  Building software solutions to simplify complexity and enable people to work
+  smarter. 
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
